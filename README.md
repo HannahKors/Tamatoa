@@ -4,10 +4,10 @@
 This tool processes and visualizes genomic data from Whole Genome Sequencing (WGS), Whole Exome Sequencing (WES), and Long-Read Sequencing (LRS) datasets. It integrates PostgreSQL for data storage, Maven for project management, and Shiny Server for data visualization.
 
 ## Prerequisites
-PostgreSQL version 17.0
-Maven version 4.0.0
-R version 4.4.1
-Shiny pacakge version 1.9.1
+* PostgreSQL version 17.0
+* Maven version 4.0.0
+* R version 4.4.1
+  * Shiny pacakge version 1.9.1
 
 ## Installation
 1. ### Database Setup
